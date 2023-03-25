@@ -1,0 +1,15 @@
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\bin\Debug\net6.0\pa3LuckyDice.exe
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\bin\Debug\net6.0\pa3LuckyDice.deps.json
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\bin\Debug\net6.0\pa3LuckyDice.runtimeconfig.json
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\bin\Debug\net6.0\pa3LuckyDice.dll
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\bin\Debug\net6.0\pa3LuckyDice.pdb
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.csproj.AssemblyReference.cache
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.AssemblyInfoInputs.cache
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.AssemblyInfo.cs
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.dll
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\refint\pa3LuckyDice.dll
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.pdb
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\pa3LuckyDice.genruntimeconfig.cache
+C:\Users\kylel\OneDrive\Desktop\pa3LuckyDice\obj\Debug\net6.0\ref\pa3LuckyDice.dll

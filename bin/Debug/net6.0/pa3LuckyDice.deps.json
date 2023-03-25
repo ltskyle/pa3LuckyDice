@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pa3LuckyDice/1.0.0": {
+        "runtime": {
+          "pa3LuckyDice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pa3LuckyDice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
